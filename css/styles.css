@@ -3,7 +3,7 @@ img{
   width: 200px;
 }
 body{
-  background-color: grey;
+  background-color: coral;
   font-size: 20px
 }
 h1{
@@ -19,4 +19,17 @@ h1{
 }
 .ray li{
   color: blue
+}
+.may li{
+  font-stretch: expanded;
+  font-style: oblique;
+}
+.me{
+  font-style: italic;
+  color: yellow;
+}
+.img{
+  width: 40%;
+ float: left;
+ background-color: yellow;
 }
