@@ -9,3 +9,14 @@ body{
 h1{
   text-align: center;
 }
+.ray h2{
+  text-align: center;
+  background-color: red;
+}
+.ray {
+  border-color: yellow;
+  border-spacing: 30px
+}
+.ray li{
+  color: blue
+}
