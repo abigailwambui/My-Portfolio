@@ -39,7 +39,7 @@ h1{
         color: white;
     }
 }
-  @media screen and (min-width: 480px) {
+@media screen and (min-width: 480px) {
     body{
       background-color: Coral;
       color: black
